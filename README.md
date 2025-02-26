@@ -36,5 +36,4 @@ Future Scope
 Enhance logging capabilities further by supporting custom filters and handlers.
 Improve performance optimizations for large-scale XML parsing.
 Implement real-time monitoring dashboards for reporting frameworks.
-Contact
-For more details, feel free to connect with me on LinkedIn.
+
